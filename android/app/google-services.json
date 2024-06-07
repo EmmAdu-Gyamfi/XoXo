@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "477254258789",
+    "project_id": "xoxo-f7c65",
+    "storage_bucket": "xoxo-f7c65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477254258789:android:86bdb1c6ba482b8588f68c",
+        "android_client_info": {
+          "package_name": "com.example.xoxo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9QSE_eAXOD-LEbxub8vit_SUeBKmkpzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
